@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜はメルト",
+  "base_artist": "リュベンス",
+  "createdAt": "2026-02-08T08:52:07.089680Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜はメルト",
+      "artist": "リュベンス",
+      "has_synced": false,
+      "path": "select/pl_01_夜はメルト_リュベンス.txt"
+    }
+  ]
+}
